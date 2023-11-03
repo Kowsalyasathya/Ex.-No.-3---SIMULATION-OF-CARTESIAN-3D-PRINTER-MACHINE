@@ -62,8 +62,8 @@
 ### PLAYING WITH AXES:
 ![275325576-850ae77c-e05b-4eb4-8b46-d21595b6bdc4](https://github.com/Kowsalyasathya/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118671457/bd0cc0b0-ee07-4e21-8d97-60d6160e4ba8)
 ```
-### Name: KOWSALYA M
-### Register Number: 212222230069
+Name: KOWSALYA M
+Register Number: 212222230069
 ```
 ## Result: 
 Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
